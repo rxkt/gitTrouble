@@ -6,10 +6,9 @@ intro + m3ch4n1c5 to git conflicts
 word.
 
 
-8888   888   88888    8888<br>
-8      8  8    8     8    <br>
-888    888     8     8    <br>
-8      8 8     8     8    <br>
-8888   8  8  88888    8888<br>
-&nbsp;&nbsp;moo
- moo
+8888&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;88888&nbsp;&nbsp;&nbsp;&nbsp;8888<br>
+8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8<br>
+888&nbsp;&nbsp;&nbsp;&nbsp;888&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8<br>
+8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8<br>
+8888&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;8&nbsp;&nbsp;88888&nbsp;&nbsp;&nbsp;&nbsp;8888<br>
+
